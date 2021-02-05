@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 <br>
-![](https://img.shields.io/badge/-Adobe%20Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Game%20Engine-Unity-informational?style=flat&logo=Unity&logoColor=white&color=2bbc8a)
 
 ### 📈 Github Stats
