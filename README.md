@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![alt text](https://github.com/Stolichnayer/stolichnayer/blob/main/assets/github_profile_banner.gif?raw=true)
 <!--
 **Stolichnayer/stolichnayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
