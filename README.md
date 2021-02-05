@@ -1,4 +1,4 @@
-### Hi stranger 👋 Welcome to my profile! Have a nice day and stay positive and happy! 😄
+### Hi stranger 👋 Welcome to my profile! Have a nice day, stay positive and happy! 😄
 
 ![alt text](https://github.com/Stolichnayer/stolichnayer/blob/main/assets/github_profile_banner.gif?raw=true)
 
