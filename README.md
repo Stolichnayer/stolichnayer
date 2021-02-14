@@ -1,6 +1,6 @@
 ### Hi stranger 👋 Welcome to my profile! Have a nice day, stay positive and happy! 😄
 
-![alt text](https://github.com/Stolichnayer/stolichnayer/blob/main/assets/github_profile_banner.gif?raw=true)
+<!-- ![alt text](https://github.com/Stolichnayer/stolichnayer/blob/main/assets/github_profile_banner.gif?raw=true) -->
 
 ### 🔧 Languages & Tools
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
