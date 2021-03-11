@@ -2,7 +2,7 @@
 
 <!-- ![alt text](https://github.com/Stolichnayer/stolichnayer/blob/main/assets/github_profile_banner.gif?raw=true) -->
 
-### 🔧 Languages & Tools
+### 🔧 Favorite Languages & Tools
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
